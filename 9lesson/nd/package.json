@@ -1,5 +1,5 @@
 {
-    "title": "Pets",
+    "title": "categoriesnpm",
     "version": "0.1",
     "scripts": {
       "start": "nodemon index.js"
